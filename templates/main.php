@@ -1,0 +1,11 @@
+<div id="promo">
+    <h1 id="promoText">
+        Новый PhoneBrand - это лучший смартфон
+    </h1>
+</div>
+
+<div id="mainTextWrap">
+    <div id="mainText">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum similique illum recusandae, impedit voluptatem nihil autem doloremque debitis praesentium provident rerum totam aperiam assumenda vitae perspiciatis facilis ducimus aliquam voluptatibus ullam doloribus alias sapiente odio accusamus, vel animi. Quibusdam, architecto voluptatibus facilis laborum ad eaque alias impedit illo et minima eos, fugit aperiam minus ipsa quaerat sed magni. Deleniti animi odit porro cumque voluptatum, cupiditate quaerat ipsa fugit perferendis, nulla, facilis illum reprehenderit est itaque eos illo. Et illum alias, eos odit quod voluptates voluptatem unde saepe aperiam vitae tenetur dolorem inventore doloribus ipsam nam ducimus mollitia nostrum quas iste ipsa sint autem molestiae. Ratione ea similique eius ullam officia minima facilis, eveniet possimus unde ut? Quaerat doloribus est repellat expedita beatae qui, illo, sapiente possimus ea repudiandae deleniti, tenetur voluptatibus culpa placeat aliquam dolorum maxime! Quam beatae, temporibus quae, earum libero voluptatem sit dignissimos quibusdam quo nisi natus quia, alias corporis velit culpa rem itaque error? Sapiente veritatis dicta accusantium amet id alias, ipsa veniam nobis reiciendis voluptatum consequuntur ex iure tenetur repudiandae consectetur hic iste quod ipsam dolor, sed repellat, vitae cum. Ipsum dolores rerum ducimus reprehenderit libero recusandae esse iste beatae, sit cupiditate! Aut, cupiditate dolores iure sed unde et consequatur quasi vitae accusamus eos autem vero a ducimus voluptatum error modi consectetur. Nemo accusantium ex id cumque sit error doloremque vitae laborum, beatae sapiente magni officiis, aperiam cupiditate deserunt dolore! Vitae corrupti tenetur sequi architecto, voluptas vel itaque dolore iure similique nam doloribus rerum nesciunt alias!
+    </div>
+</div>
